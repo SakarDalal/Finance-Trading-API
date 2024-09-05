@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|c:\\sakar\u0027s stuff\\financetradingapi\\controllers\\portfolioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|solutionrelative:controllers\\portfolioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|c:\\sakar\u0027s stuff\\financetradingapi\\financetradingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|solutionrelative:financetradingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|c:\\sakar\u0027s stuff\\financetradingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|c:\\sakar\u0027s stuff\\financetradingapi\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|solutionrelative:controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|c:\\sakar\u0027s stuff\\financetradingapi\\data\\financetradingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|solutionrelative:data\\financetradingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|c:\\sakar\u0027s stuff\\financetradingapi\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|solutionrelative:models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|c:\\sakar\u0027s stuff\\financetradingapi\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC009F5-2797-42FB-A110-E1DF26FFAB1A}|FinanceTradingApi.csproj|solutionrelative:models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:56:20.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinanceTradingApi",
+              "DocumentMoniker": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\FinanceTradingApi.csproj",
+              "RelativeDocumentMoniker": "FinanceTradingApi.csproj",
+              "ToolTip": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\FinanceTradingApi.csproj",
+              "RelativeToolTip": "FinanceTradingApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T09:55:18.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortfoliosController.cs",
+              "DocumentMoniker": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Controllers\\PortfoliosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PortfoliosController.cs",
+              "ToolTip": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Controllers\\PortfoliosController.cs",
+              "RelativeToolTip": "Controllers\\PortfoliosController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:00:27.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinanceTradingContext.cs",
+              "DocumentMoniker": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Data\\FinanceTradingContext.cs",
+              "RelativeDocumentMoniker": "Data\\FinanceTradingContext.cs",
+              "ToolTip": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Data\\FinanceTradingContext.cs",
+              "RelativeToolTip": "Data\\FinanceTradingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:56:01.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "Controllers\\StocksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:59:26.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "Models\\Portfolio.cs",
+              "ToolTip": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Models\\Portfolio.cs",
+              "RelativeToolTip": "Models\\Portfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:54:54.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "Models\\Stock.cs",
+              "ToolTip": "C:\\Sakar\u0027s stuff\\FinanceTradingApi\\Models\\Stock.cs",
+              "RelativeToolTip": "Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:54:24.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

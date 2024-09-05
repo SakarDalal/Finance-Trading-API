@@ -1,0 +1,14 @@
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\FinanceTradingApi.exe
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\FinanceTradingApi.dll
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\FinanceTradingApi.deps.json
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\FinanceTradingApi.runtimeconfig.json
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\FinanceTradingApi.pdb
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Sakar's stuff\FinanceTradingApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
